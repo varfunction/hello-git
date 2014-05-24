@@ -2,3 +2,6 @@ hello git
 git checkout
 git diff
 dev branch test
+git checkout
+git diff
+dev branch test
