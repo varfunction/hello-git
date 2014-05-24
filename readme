@@ -2,6 +2,9 @@ hello git
 git checkout
 git diff
 dev branch test
+git origin master
 git checkout
 git diff
 dev branch test
+git log --graph --pretty=oneline --abbrev-commit
+test --no-ff merge
